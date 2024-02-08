@@ -14,6 +14,21 @@
 		7C41D29C2B73B0760072FEB8 /* iTeckTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D29B2B73B0760072FEB8 /* iTeckTestTests.swift */; };
 		7C41D2A62B73B0760072FEB8 /* iTeckTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2A52B73B0760072FEB8 /* iTeckTestUITests.swift */; };
 		7C41D2A82B73B0760072FEB8 /* iTeckTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2A72B73B0760072FEB8 /* iTeckTestUITestsLaunchTests.swift */; };
+		7C41D2B62B73C76E0072FEB8 /* VehicleStatusCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2B52B73C76E0072FEB8 /* VehicleStatusCard.swift */; };
+		7C41D2B92B73E30B0072FEB8 /* MileageRecordCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2B82B73E30B0072FEB8 /* MileageRecordCard.swift */; };
+		7C41D2BB2B73FC090072FEB8 /* MileageCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2BA2B73FC090072FEB8 /* MileageCard.swift */; };
+		7C41D2BD2B7421970072FEB8 /* DayConsumption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2BC2B7421970072FEB8 /* DayConsumption.swift */; };
+		7C41D2BF2B74CBB90072FEB8 /* StatesCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2BE2B74CBB80072FEB8 /* StatesCard.swift */; };
+		7C41D2C12B74EA610072FEB8 /* ImageAndDiscountCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2C02B74EA610072FEB8 /* ImageAndDiscountCard.swift */; };
+		7C41D2C32B74F2910072FEB8 /* INavigateCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2C22B74F2910072FEB8 /* INavigateCard.swift */; };
+		7C41D2C52B75235D0072FEB8 /* HourCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2C42B75235D0072FEB8 /* HourCard.swift */; };
+		7C41D2C82B7523F40072FEB8 /* ImageAndTextTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2C72B7523F40072FEB8 /* ImageAndTextTitle.swift */; };
+		7C41D2CA2B752DD40072FEB8 /* RatingCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2C92B752DD30072FEB8 /* RatingCard.swift */; };
+		7C41D2CC2B75316C0072FEB8 /* FrequestPlacesCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2CB2B75316C0072FEB8 /* FrequestPlacesCard.swift */; };
+		7C41D2CE2B7532DF0072FEB8 /* DistanceText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2CD2B7532DF0072FEB8 /* DistanceText.swift */; };
+		7C41D2D02B7542D30072FEB8 /* PieChartCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2CF2B7542D30072FEB8 /* PieChartCard.swift */; };
+		7C41D2D22B7563D80072FEB8 /* CustomeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2D12B7563D70072FEB8 /* CustomeButton.swift */; };
+		7C41D2D42B7568550072FEB8 /* DaysOfWeek.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C41D2D32B7568550072FEB8 /* DaysOfWeek.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +59,21 @@
 		7C41D2A12B73B0760072FEB8 /* iTeckTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iTeckTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C41D2A52B73B0760072FEB8 /* iTeckTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iTeckTestUITests.swift; sourceTree = "<group>"; };
 		7C41D2A72B73B0760072FEB8 /* iTeckTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iTeckTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7C41D2B52B73C76E0072FEB8 /* VehicleStatusCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VehicleStatusCard.swift; sourceTree = "<group>"; };
+		7C41D2B82B73E30B0072FEB8 /* MileageRecordCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MileageRecordCard.swift; sourceTree = "<group>"; };
+		7C41D2BA2B73FC090072FEB8 /* MileageCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MileageCard.swift; sourceTree = "<group>"; };
+		7C41D2BC2B7421970072FEB8 /* DayConsumption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayConsumption.swift; sourceTree = "<group>"; };
+		7C41D2BE2B74CBB80072FEB8 /* StatesCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatesCard.swift; sourceTree = "<group>"; };
+		7C41D2C02B74EA610072FEB8 /* ImageAndDiscountCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageAndDiscountCard.swift; sourceTree = "<group>"; };
+		7C41D2C22B74F2910072FEB8 /* INavigateCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = INavigateCard.swift; sourceTree = "<group>"; };
+		7C41D2C42B75235D0072FEB8 /* HourCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HourCard.swift; sourceTree = "<group>"; };
+		7C41D2C72B7523F40072FEB8 /* ImageAndTextTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageAndTextTitle.swift; sourceTree = "<group>"; };
+		7C41D2C92B752DD30072FEB8 /* RatingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingCard.swift; sourceTree = "<group>"; };
+		7C41D2CB2B75316C0072FEB8 /* FrequestPlacesCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrequestPlacesCard.swift; sourceTree = "<group>"; };
+		7C41D2CD2B7532DF0072FEB8 /* DistanceText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistanceText.swift; sourceTree = "<group>"; };
+		7C41D2CF2B7542D30072FEB8 /* PieChartCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PieChartCard.swift; sourceTree = "<group>"; };
+		7C41D2D12B7563D70072FEB8 /* CustomeButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomeButton.swift; sourceTree = "<group>"; };
+		7C41D2D32B7568550072FEB8 /* DaysOfWeek.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DaysOfWeek.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +124,7 @@
 		7C41D2892B73B0710072FEB8 /* iTeckTest */ = {
 			isa = PBXGroup;
 			children = (
+				7C41D2B42B73B0A80072FEB8 /* components */,
 				7C41D28A2B73B0710072FEB8 /* iTeckTestApp.swift */,
 				7C41D28C2B73B0710072FEB8 /* ContentView.swift */,
 				7C41D28E2B73B0760072FEB8 /* Assets.xcassets */,
@@ -125,6 +156,36 @@
 				7C41D2A72B73B0760072FEB8 /* iTeckTestUITestsLaunchTests.swift */,
 			);
 			path = iTeckTestUITests;
+			sourceTree = "<group>";
+		};
+		7C41D2B42B73B0A80072FEB8 /* components */ = {
+			isa = PBXGroup;
+			children = (
+				7C41D2C62B7523C00072FEB8 /* helpers */,
+				7C41D2B52B73C76E0072FEB8 /* VehicleStatusCard.swift */,
+				7C41D2B82B73E30B0072FEB8 /* MileageRecordCard.swift */,
+				7C41D2BA2B73FC090072FEB8 /* MileageCard.swift */,
+				7C41D2BC2B7421970072FEB8 /* DayConsumption.swift */,
+				7C41D2BE2B74CBB80072FEB8 /* StatesCard.swift */,
+				7C41D2C02B74EA610072FEB8 /* ImageAndDiscountCard.swift */,
+				7C41D2C22B74F2910072FEB8 /* INavigateCard.swift */,
+				7C41D2C42B75235D0072FEB8 /* HourCard.swift */,
+				7C41D2C92B752DD30072FEB8 /* RatingCard.swift */,
+				7C41D2CB2B75316C0072FEB8 /* FrequestPlacesCard.swift */,
+				7C41D2CF2B7542D30072FEB8 /* PieChartCard.swift */,
+				7C41D2D32B7568550072FEB8 /* DaysOfWeek.swift */,
+			);
+			path = components;
+			sourceTree = "<group>";
+		};
+		7C41D2C62B7523C00072FEB8 /* helpers */ = {
+			isa = PBXGroup;
+			children = (
+				7C41D2C72B7523F40072FEB8 /* ImageAndTextTitle.swift */,
+				7C41D2CD2B7532DF0072FEB8 /* DistanceText.swift */,
+				7C41D2D12B7563D70072FEB8 /* CustomeButton.swift */,
+			);
+			path = helpers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +318,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C41D2BD2B7421970072FEB8 /* DayConsumption.swift in Sources */,
+				7C41D2BF2B74CBB90072FEB8 /* StatesCard.swift in Sources */,
+				7C41D2BB2B73FC090072FEB8 /* MileageCard.swift in Sources */,
+				7C41D2B92B73E30B0072FEB8 /* MileageRecordCard.swift in Sources */,
+				7C41D2C32B74F2910072FEB8 /* INavigateCard.swift in Sources */,
+				7C41D2C52B75235D0072FEB8 /* HourCard.swift in Sources */,
+				7C41D2C82B7523F40072FEB8 /* ImageAndTextTitle.swift in Sources */,
+				7C41D2D42B7568550072FEB8 /* DaysOfWeek.swift in Sources */,
+				7C41D2CC2B75316C0072FEB8 /* FrequestPlacesCard.swift in Sources */,
 				7C41D28D2B73B0710072FEB8 /* ContentView.swift in Sources */,
+				7C41D2B62B73C76E0072FEB8 /* VehicleStatusCard.swift in Sources */,
+				7C41D2D22B7563D80072FEB8 /* CustomeButton.swift in Sources */,
+				7C41D2C12B74EA610072FEB8 /* ImageAndDiscountCard.swift in Sources */,
+				7C41D2CA2B752DD40072FEB8 /* RatingCard.swift in Sources */,
+				7C41D2D02B7542D30072FEB8 /* PieChartCard.swift in Sources */,
 				7C41D28B2B73B0710072FEB8 /* iTeckTestApp.swift in Sources */,
+				7C41D2CE2B7532DF0072FEB8 /* DistanceText.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -417,6 +493,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"iTeckTest/Preview Content\"";
+				DEVELOPMENT_TEAM = 4BPTPRV6GZ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -445,6 +522,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"iTeckTest/Preview Content\"";
+				DEVELOPMENT_TEAM = 4BPTPRV6GZ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
